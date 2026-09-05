@@ -1,0 +1,15 @@
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\bin\Debug\net10.0\CostumerViaCep.exe
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\bin\Debug\net10.0\CostumerViaCep.deps.json
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\bin\Debug\net10.0\CostumerViaCep.runtimeconfig.json
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\bin\Debug\net10.0\CostumerViaCep.dll
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\bin\Debug\net10.0\CostumerViaCep.pdb
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\obj\Debug\net10.0\CostumerViaCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\obj\Debug\net10.0\CostumerViaCep.AssemblyInfoInputs.cache
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\obj\Debug\net10.0\CostumerViaCep.AssemblyInfo.cs
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\obj\Debug\net10.0\CostumerViaCep.csproj.CoreCompileInputs.cache
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\obj\Debug\net10.0\CostumerViaCep.sourcelink.json
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\obj\Debug\net10.0\CostumerViaCep.dll
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\obj\Debug\net10.0\refint\CostumerViaCep.dll
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\obj\Debug\net10.0\CostumerViaCep.pdb
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\obj\Debug\net10.0\CostumerViaCep.genruntimeconfig.cache
+C:\Users\vanaj\Downloads\Uni\CostumerViaCep\obj\Debug\net10.0\ref\CostumerViaCep.dll
